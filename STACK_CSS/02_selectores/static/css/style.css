@@ -1,0 +1,14 @@
+/* seleccion a traves de etiqueta */
+
+<h1> {
+    color:chartreuse;
+}
+
+/* seleccion a traves de clases (.) */
+.rojo{ color:red
+}
+
+/*seleccion a traves de id (#)*/
+
+#amarillo{ color:yellow
+}
