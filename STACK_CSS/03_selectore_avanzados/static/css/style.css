@@ -27,5 +27,9 @@ h1 {
 }
 .quote h4{
     color: rgb(95, 163, 163);
-    front-weight:
+    front-weight: bold; /* negita */
+}
+
+.header > img {
+   height: 50px;
 }
