@@ -1,0 +1,31 @@
+* { /* seletor comodic (seleciona todos los elementos HTML) */
+   outline: 1px dashed crimson; /* linea externa de 2px */
+   margin: 0; /* formatea espacio externos de elementos HTML */
+   padding: 0; /* formatea espacio interno de elementos HTML */
+   box-sizing: border-box; /* considera bordes dentro de tamaño de elementos */
+}
+body{
+   padding: 40px;
+}
+
+h1 {
+   color: rebeccapurple;
+}
+
+.green {
+   color: mediumseagreen;
+}
+
+#red {
+   color: tomato;
+}
+
+
+.quote p {
+   color: darkslategray;
+   font-style: italic;
+}
+.quote h4{
+    color: rgb(95, 163, 163);
+    front-weight:
+}
