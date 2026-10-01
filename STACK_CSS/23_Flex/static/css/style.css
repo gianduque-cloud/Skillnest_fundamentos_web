@@ -5,15 +5,38 @@
 }
 
 .contenedores{
-    padding: 40px;
+    padding: 10px;
+    background-color: rgb(252, 249, 249);
+    margin: 5px;
+    border: solid grey 1px;
+    border-radius: 5px;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    gap: 20px;
+}   
+
+.boton{
+    height: 40px;
     background-color: gray;
+    border: none;
+    border-radius: 5px;
 }
 
+img{
+    height: 260px;
+    padding: 20px;
+    background-color: rgb(201, 199, 199);
+}
 .todo{
     display: flex;
     padding: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .encabezado{
     padding: 30px;
+    font-size: 26px;
+    justify-content: center;
 }
